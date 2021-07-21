@@ -9,10 +9,10 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Giữa những người đàn ông sao em lại chọn người đẹp trai là anh  <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Vì anh quá đẹp trai <3',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Love u more than i can say ',
     messDesc: 'Mai đi chơi nha em iu .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/lohao33' //. 
