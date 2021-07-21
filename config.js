@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Vì anh quá đẹp trai <3',
     mess: 'Love u more than i can say ',
     messDesc: 'Mai đi chơi nha em iu .',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Oki lun <3',
     messLink: 'http://fb.com/lohao33' //. 
 }
